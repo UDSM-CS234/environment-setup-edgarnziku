@@ -1,3 +1,9 @@
+# NZIKU EDGAR EVARIST
+# 2020-04-10086
+# Bsc in BIT
+
+
+
 # CS 234 Lab 1: Hello World"
 
 ## 1. Preliminaries
